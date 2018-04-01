@@ -1,1 +1,12 @@
-console.log('Initialised main file.');
+const lib = () => {
+
+    const multiply = (a, b) => {
+        return a * b;
+    }
+
+
+
+
+}
+
+module.exports

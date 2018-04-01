@@ -1,7 +1,7 @@
 {
   "name": "",
   "version": "",
-  "scripts": {
-    "test": "jasmine"
+  "devDependencies": {
+    "jasmine": "^3.1.0"
   }
 }
